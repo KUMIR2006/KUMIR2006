@@ -1,11 +1,6 @@
 # Hi, I'm Kurbanov Mirzobek 👋  
 **Frontend & Web3 Developer**  
 
-## About Me
-Self-taught frontend developer passionate about web technologies design and blockchain.
-
-## Tech Stack
-
 **Frontend:**  
 - JavaScript / TypeScript  
 - React / Next.js
