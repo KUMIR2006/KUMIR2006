@@ -1,6 +1,3 @@
-# Hi, I'm Kurbanov Mirzobek 👋  
-**Frontend & Web3 Developer**  
-
 **Frontend:**  
 - JavaScript / TypeScript  
 - React / Next.js
