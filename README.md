@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kurbanov Mirzobek 👋  
+**Frontend & Web3 Developer**  
 
-<!--
-**KUMIR2006/KUMIR2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Self-taught frontend developer passionate about web technologies design and blockchain.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**  
+- JavaScript / TypeScript  
+- React / Next.js
+- Redux Toolkit
+- Chakra UI / Shadcn UI
+- Tailwind / SCSS / CSS modules
+
+**Blockchain/Web3:**  
+- Solidity
+- Hardhat / Foundry
+- Wagmi / Ether.js / Web3.js
+- Supabase, IPFS
+- Reown / Privy / WalletConnect
+
+**Open to collaboration and new opportunities!**
